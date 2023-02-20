@@ -14,7 +14,9 @@ For the purpose of exploring the data is to find patterns, identify anomalies, t
 - What is the rate of Precipitation (rainfall) and Snowfall in the city especially during each season? Does this influence the concentration of the PM 2.5?
 - What is the atmospheric Temperature and Pressure of the city during each season? Do they affect the Air Quality?
 
-The Exploratory Data Analysis was carried using Python and the Data Visualization was done using Power Bi 
+The Exploratory Data Analysis was carried using Python and the Data Visualization was done using Power Bi. 
+
+Check out the link to the interactive dashboard: [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGJkNTc4ZGUtNTU3MS00NmY1LWIxYmYtNDQzYmViM2U1ZjkzIiwidCI6IjUwZDA2MjZhLTcwN2UtNDk2ZC1iOGU1LTIwYjk1NzA5MTYzZSJ9)
 
 ## Recommendations 
 After gathering insights from the data, I would love to make a few recommendations
