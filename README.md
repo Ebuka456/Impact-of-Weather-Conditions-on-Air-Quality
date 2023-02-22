@@ -17,6 +17,7 @@ For the purpose of exploring the data is to find patterns, identify anomalies, t
 The Exploratory Data Analysis was carried using Python which can be accessed [Here](https://github.com/Ebuka456/Impact-of-Weather-Conditions-on-Air-Quality/blob/main/Weather%20Data/Impact%20of%20Weather%20Conditions%20on%20Air%20Quality-%20Exploratory%20Data%20Analysis.ipynb) and the Data Visualization was done using Power Bi. 
 
 Check out the link to the interactive dashboard: [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGJkNTc4ZGUtNTU3MS00NmY1LWIxYmYtNDQzYmViM2U1ZjkzIiwidCI6IjUwZDA2MjZhLTcwN2UtNDk2ZC1iOGU1LTIwYjk1NzA5MTYzZSJ9)
+The wind chart was constructed using Python and It is also interactive but for some reason, it isnt displayed on power bi service. I would appreciate any recommendation on how to get past this issue. The pdf file of the dashboard can be viewed [Here](https://github.com/Ebuka456/Impact-of-Weather-Conditions-on-Air-Quality/blob/main/Weather%20Data/Impact%20of%20Weather%20Conditions%20Dashboard.pdf)
 
 ## Recommendations 
 After gathering insights from the data, I would love to make a few recommendations
