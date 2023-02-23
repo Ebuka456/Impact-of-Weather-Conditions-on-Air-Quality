@@ -5,7 +5,7 @@ How is the Air quality affected by weather and atmospheric conditions?
 
 This project uses an hourly data collection that includes PM2.5 data from the US Embassy in Beijing from January 2010 to December 2014 to assess Beijing's air quality and track the effects of weather and atmospheric conditions on the city's air quality.
 
-The tools I used to perform this analysis are Python and Power Bi.
+The tools I used to perform this analysis are Python and Power Bi. I wrote an article on this project and it featured on [Microsoft Tech Community Blog](https://techcommunity.microsoft.com/t5/educator-developer-blog/data-analytics-with-powerbi-student-project-showcase-impact-on/ba-p/3747374)
 
 ## Exploratory Data Analysis
 For the purpose of exploring the data is to find patterns, identify anomalies, test hypotheses, and verify presumptions with the aid of summary statistics and graphical representations, The following Questions asked of the data are
